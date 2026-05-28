@@ -2,6 +2,7 @@
   "name": "Umutcagand's IPA Library",
   "identifier": "com.umutcagand.ipalibrary",
   "sourceURL": "https://c8dhjp4tyv-bit.github.io/umutcagand-s-ipa-library/apps.json",
+  "iconURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/blob/main/logo.png",
   "apps": [
     {
       "name": "ByeTunes",
