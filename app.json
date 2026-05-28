@@ -1,0 +1,19 @@
+{
+  "name": "Umutcagand's IPA Library",
+  "identifier": "com.umutcagand.ipalibrary",
+  "sourceURL": "https://c8dhjp4tyv-bit.github.io/umutcagand-s-ipa-library/apps.json",
+  "apps": [
+    {
+      "name": "ByeTunes",
+      "bundleIdentifier": "com.byetunes.app",
+      "developerName": "umutcagand-s",
+      "version": "2.2",
+      "versionDate": "2026-05-28",
+      "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v2.2/ByeTunes.ipa",
+      "localizedDescription": "Açıklama yaz",
+      "iconURL": "",
+      "size": 5000000
+    }
+  ],
+  "news": []
+}
