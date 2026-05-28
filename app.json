@@ -5,8 +5,7 @@
   "apps": [
     {
       "name": "ByeTunes",
-      "bundleIdentifier": "com.EduAlexxis.MusicManager"
-",
+      "bundleIdentifier": "com.EduAlexxis.MusicManager",
       "developerName": "umutcagand-s",
       "version": "2.2",
       "versionDate": "2026-05-28",
