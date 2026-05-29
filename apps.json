@@ -80,7 +80,18 @@
       "localizedDescription": "Virtual machines for iOS. Run Windows, Linux, and other operating systems on your iPhone and iPad.",
       "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/UTM.png",
       "size": 124000000
-    }
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "tbotd",
+      "version": "1.3.2",
+      "versionDate": "2026-05-29",
+      "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v1.5/iSH.ipa",
+      "localizedDescription": "Linux shell for iOS",
+      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/ish.png",
+      "size": 4000000
+   }
   ],
   "news": []
 }
