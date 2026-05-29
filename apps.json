@@ -27,9 +27,9 @@
       "size": 17100000
     },
     {
-      "name": "MyApp",
-      "bundleIdentifier": "om.rileytestut.Delta",
-      "developerName": "rileytestut",
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "developerName": "Riley Testut",
       "version": "1.6",
       "versionDate": "2026-05-29",
       "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v2.0/Delta_1_6.ipa",
