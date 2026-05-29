@@ -69,6 +69,17 @@
       "localizedDescription": "Multi-system emulator frontend for iOS supporting dozens of classic consoles with save states and controller support.",
       "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/provenance.png",
       "size": 1000000000
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "developerName": "OSY",
+      "version": "v4.7.5",
+      "versionDate": "2026-05-29",
+      "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v1.6/UTM.ipa",
+      "localizedDescription": "Virtual machines for iOS. Run Windows, Linux, and other operating systems on your iPhone and iPad.",
+      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/UTM.png",
+      "size": 124000000
     }
   ],
   "news": []
