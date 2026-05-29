@@ -41,7 +41,7 @@
       "name": "iTorrent",
       "bundleIdentifier": "com.xitrix.iTorrent2",
       "developerName": "XITRIX",
-      "version": "v2.1.1-1",
+      "version": "2.1.1",
       "versionDate": "2026-05-29",
       "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v1.9/iTorrent.ipa",
       "localizedDescription": "Torrent client for iOS 16+",
@@ -55,9 +55,20 @@
       "version": "1.20.4",
       "versionDate": "2026-05-29",
       "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v1.8/PPSSPP-iOS-v1.20.4.ipa",
-      "localizedDescription": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
+      "localizedDescription": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++.",
       "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/PPSSPP.png",
       "size": 29700000
+    },
+    {
+      "name": "Provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "developerName": "Joe Mattiello",
+      "version": "3.3.0",
+      "versionDate": "2026-05-29",
+      "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v1.7/Provenance-3.3.0-iOS.ipa",
+      "localizedDescription": "Multi-system emulator frontend for iOS supporting dozens of classic consoles with save states and controller support.",
+      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/provenance.png",
+      "size": 1000000000
     }
   ],
   "news": []
