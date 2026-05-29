@@ -3,7 +3,6 @@
   "identifier": "com.umutcagand.ipalibrary",
   "sourceURL": "https://c8dhjp4tyv-bit.github.io/umutcagand-s-ipa-library/apps.json",
   "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/logo.png",
-
   "apps": [
     {
       "name": "ByeTunes",
@@ -13,9 +12,9 @@
       "versionDate": "2026-05-28",
       "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v2.2/ByeTunes.ipa",
       "localizedDescription": "The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here.",
-      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/Icon-iOS-Default-1024x1024%401x.png"      "size": 23700000
+      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/Icon-iOS-Default-1024x1024%401x.png",
+      "size": 23700000
     }
   ],
-
   "news": []
 }
