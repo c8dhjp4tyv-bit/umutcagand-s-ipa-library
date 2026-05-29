@@ -9,7 +9,7 @@
       "bundleIdentifier": "com.EduAlexxis.MusicManager",
       "developerName": "EduAlexxis",
       "version": "2.2",
-      "versionDate": "2026-05-28",
+      "versionDate": "2026-05-29",
       "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v2.2/ByeTunes.ipa",
       "localizedDescription": "The first app of its kind: seamless, on-device music and ringtone injection for iOS. Bypass iTunes and manage your native library directly. Auto-fetch metadata, organize playlists, and keep your files clean. The true local music experience is here.",
       "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/Icon-iOS-Default-1024x1024%401x.png",
@@ -25,6 +25,17 @@
       "localizedDescription": "Dolphin for iOS, reborn",
       "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/dolphin-ios.png",
       "size": 17100000
+    },
+    {
+      "name": "MyApp",
+      "bundleIdentifier": "om.rileytestut.Delta",
+      "developerName": "rileytestut",
+      "version": "1.6",
+      "versionDate": "2026-05-29",
+      "downloadURL": "https://github.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/releases/download/v2.0/Delta_1_6.ipa",
+      "localizedDescription": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/c8dhjp4tyv-bit/umutcagand-s-ipa-library/main/1780059687839-e1ee6f9a-8625-4ac6-8e1f-f56df271a399_1.jpg",
+      "size": 83700000
     }
   ],
   "news": []
